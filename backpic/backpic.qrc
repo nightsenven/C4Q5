@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>高亮.jpg</file>
+        <file>简约.jpg</file>
+        <file>经典.jpg</file>
+        <file>柔和.jpg</file>
+        <file>自然.jpg</file>
+        <file>../headpic/白图.jpg</file>
+    </qresource>
+</RCC>

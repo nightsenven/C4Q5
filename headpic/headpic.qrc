@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>1.jpg</file>
+        <file>2.jpg</file>
+        <file>3.jpg</file>
+        <file>4.jpg</file>
+        <file>5.jpg</file>
+        <file>6.jpg</file>
+        <file>7.jpg</file>
+        <file>8.jpg</file>
+        <file>9.jpg</file>
+        <file>10.jpg</file>
+        <file>hide.jpg</file>
+        <file>qq.jpg</file>
+        <file>stop.jpg</file>
+        <file>上一首.jpg</file>
+        <file>下一首.jpg</file>
+        <file>暂停.jpg</file>
+        <file>播放.jpg</file>
+        <file>emoji.jpg</file>
+        <file>装扮.jpg</file>
+        <file>键盘.jpg</file>
+    </qresource>
+</RCC>
